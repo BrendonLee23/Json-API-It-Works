@@ -1,0 +1,56 @@
+{
+  "modulos": [
+    {
+      "id": 1,
+      "Descricao": "E-Malote Web",
+      "subModulos": [
+        { "id": "1", "Descricao": "Emalote Web" },
+        { "id": "2", "Descricao": "Visão Situacional" },
+        { "id": "3", "Descricao": "CockPit de Vendas" },
+        { "id": "4", "Descricao": "Integração NFS Tomadas" },
+        { "id": "5", "Descricao": "Calculo de Guias" },
+        { "id": "6", "Descricao": "Confrontar SPED" }
+      ]
+    },
+    {
+      "id": 2,
+      "Descricao": "Auditoria",
+      "subModulos": [
+        { "id": "1", "Descricao": "Auditar Documentos" },
+        { "id": "2", "Descricao": "Redefinir Atividade de Participantes" },
+        { "id": "3", "Descricao": "Definir Cenário Próprio" },
+        { "id": "4", "Descricao": "Relacionar Produto Emitente" }
+      ]
+    },
+    {
+      "id": 3,
+      "Descricao": "Revisão",
+      "subModulos": [
+        { "id": "1", "Descricao": "Revisar Produtos" }
+      ]
+    },
+    {
+      "id": 4,
+      "Descricao": "Segregação",
+      "subModulos": [
+        { "id": "1", "Descricao": "Segregação Simples Nacional" },
+        { "id": "2", "Descricao": "Emissão PGDAS" }
+      ]
+    },
+    {
+      "id": 5,
+      "Descricao": "Consulta Livre Produtos",
+      "subModulos": [
+        { "id": "1", "Descricao": "Simulador de Operações" },
+        { "id": "2", "Descricao": "Consulta Livre de Produtos" }
+      ]
+    },
+    {
+      "id": 6,
+      "Descricao": "Recuperação",
+      "subModulos": [
+        { "id": "1", "Descricao": "Recuperação Simples Nacional" }
+      ]
+    }
+  ]
+}
